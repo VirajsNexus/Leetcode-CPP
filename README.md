@@ -1,4 +1,4 @@
-# Leetcode-C-
+# Leetcode-C++
 
 ## 📂 Solved Problems
 
